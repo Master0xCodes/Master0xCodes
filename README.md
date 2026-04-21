@@ -7,6 +7,7 @@ I build autonomous trading bots, flash loan arbitrage systems, smart contracts, 
 
 ## Featured Projects
 
+- **[defi-flashloan-system](https://github.com/Master0xCodes/defi-flashloan-system)** — Modular flash loan framework supporting Aave V2/V3 and Balancer, with on-chain profit validation and multi-DEX routing
 - **[defi-flash-arbitrage](https://github.com/Master0xCodes/defi-flash-arbitrage)** — Production Ethereum flash loan system with custom Solidity contracts, Hardhat tests, and mainnet fork validation
 - **[defi-scanner-toolkit](https://github.com/Master0xCodes/defi-scanner-toolkit)** — Price discovery scanners and flash loan executors across Uniswap, Sushiswap, Balancer, and 10+ DEXes via 0x Protocol
 - **[defi-arbitrage-bots](https://github.com/Master0xCodes/defi-arbitrage-bots)** — Four self-contained arbitrage bots showing different architectural approaches: WebSocket feeds, block polling, API aggregation, multicall batching
