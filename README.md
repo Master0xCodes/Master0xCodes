@@ -3,7 +3,7 @@
 
 Self-taught engineer building production systems that connect AI to real financial infrastructure. Based in Charlotte, NC.
 
-I build autonomous trading bots, flash loan arbitrage systems, smart contracts, and AI-powered automation. My work spans Ethereum and Solana, Python and TypeScript, Solidity and Rust. I don't use AI tools — I build systems with them.
+I build autonomous trading bots, flash loan arbitrage systems, smart contracts, and AI-powered automation. My work spans Ethereum and Solana, Python and TypeScript, Solidity and Rust. I learn, grow, and build with AI as a core part of my workflow — moving fast, solving hard problems, and constantly expanding what I can create. High velocity learning, relentless building. Stay tuned.
 
 ## Featured Projects
 
